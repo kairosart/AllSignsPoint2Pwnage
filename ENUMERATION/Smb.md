@@ -11,7 +11,7 @@ You can see you have access to the share `images$` and `Users` are accessible.
 
 
 > [!Question] What is the hidden share where images should be copied to?
-> images$
+> `images$`
 
 
 **Next step:** [[SMB testing]]

@@ -14,5 +14,5 @@ nmap -p 1-1023 <MACHINE IP>
 > 6
 
 
- **Next step:** [[FTP Server]]
+ **Next step:** [[Web server]]
  	
