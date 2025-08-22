@@ -51,3 +51,35 @@ type Install_www_and_deploy.bat
 > [!Question] What is the Administrador Password?
 > `RCYCc3GIjM0v98HDVJ1KOuUm4xsWUxqZabeofbbpAss9KCKpYfs2rCi`
 
+> [!Question] What executable is used to run the installer with the Administrator username and password?
+> `PsExec.exe`
+
+
+## VNC Password
+
+Hint: here are a few versions but some do not work. The version here is known to work: [http://aluigi.altervista.org/pwdrec.htm](http://aluigi.altervista.org/pwdrec.htm).
+
+### Getting the tool
+- Download [VNC password decoder 0.2.1](https://aluigi.altervista.org/pwdrec/vncpwd.zip) *(vncpwd).*
+- Decompress it.
+- Upload `vncpwd.exe` via SMB to the images directory.
+
+### Getting the passowrd
+
+#Visctim_machine 
+- Go to `C:\Program Files\uvnc bvba\UltraVNC`.
+- There's a file `ultravnc.ini`. See the content an you'll find:
+	passwd=B3A8F2D8BEA2F1FA70
+- On the `C:\xampp\htdocs\images` run the following:
+```
+vncpwd.exe B3A8F2D8BEA2F1FA70
+```
+
+![[Find the passwords and Admin Flag-20250822111217809.webp]]
+
+
+> [!Question] What is the VNC Password?
+> `5upp0rt9`
+
+**Next step:** [[Sing user privileges]]
+
