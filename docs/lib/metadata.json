@@ -1,0 +1,359 @@
+{
+  "vaultName": "Reset",
+  "lastExport": 1755859213704,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "ENUMERATION/FTP Server.md",
+    "ENUMERATION/Ports under 1024.md",
+    "ENUMERATION/Smb.md",
+    "ENUMERATION/Web server.md",
+    "EXPLOITATION/Reverse Shell.md",
+    "EXPLOITATION/SMB testing.md",
+    "images/Find the passwords and Admin Flag-20250821201554241.webp",
+    "images/Find the passwords and Admin Flag-20250821201845472.webp",
+    "images/Find the passwords and Admin Flag-20250822111217809.webp",
+    "images/FTP Server-20250820200546039.webp",
+    "images/FTP Server-20250820200951587.webp",
+    "images/FTP Server-20250820201413335.webp",
+    "images/FTP Server-20250820201621364.webp",
+    "images/index-20250820114402447.webp",
+    "images/Ports under 1024-20250820120028421.webp",
+    "images/Reverse Shell-20250821194641570.webp",
+    "images/Sing user privileges-20250822112058299.webp",
+    "images/Sing user privileges-20250822122401911.webp",
+    "images/Sing user privileges-20250822122551826.webp",
+    "images/SMB testing-20250820203936709.webp",
+    "images/Smb-20250820194949161.webp",
+    "images/Untitled.base",
+    "images/Untitled 1.base",
+    "images/Users password-20250821200806508.webp",
+    "images/Web server-20250820205428329.webp",
+    "images/Web server-20250821192430750.webp",
+    "images/Web server-20250821192721494.webp",
+    "PRIVILEGE ESCALATION/Getting root.md",
+    "PRIVILEGE ESCALATION/Sing user privileges.md",
+    "PWND/Find the passwords.md",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "ENUMERATION/FTP Server.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 598,
+      "exportedPath": "ENUMERATION/FTP Server.html",
+      "dependencies": []
+    },
+    "ENUMERATION/Ports under 1024.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 191,
+      "exportedPath": "ENUMERATION/Ports under 1024.html",
+      "dependencies": []
+    },
+    "ENUMERATION/Smb.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 311,
+      "exportedPath": "ENUMERATION/Smb.html",
+      "dependencies": []
+    },
+    "ENUMERATION/Web server.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 477,
+      "exportedPath": "ENUMERATION/Web server.html",
+      "dependencies": []
+    },
+    "EXPLOITATION/Reverse Shell.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 943,
+      "exportedPath": "EXPLOITATION/Reverse Shell.html",
+      "dependencies": []
+    },
+    "EXPLOITATION/SMB testing.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 353,
+      "exportedPath": "EXPLOITATION/SMB testing.html",
+      "dependencies": []
+    },
+    "images/Find the passwords and Admin Flag-20250821201554241.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 33020,
+      "exportedPath": "images/Find the passwords and Admin Flag-20250821201554241.webp",
+      "dependencies": []
+    },
+    "images/Find the passwords and Admin Flag-20250821201845472.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 46798,
+      "exportedPath": "images/Find the passwords and Admin Flag-20250821201845472.webp",
+      "dependencies": []
+    },
+    "images/Find the passwords and Admin Flag-20250822111217809.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 13008,
+      "exportedPath": "images/Find the passwords and Admin Flag-20250822111217809.webp",
+      "dependencies": []
+    },
+    "images/FTP Server-20250820200546039.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 12998,
+      "exportedPath": "images/FTP Server-20250820200546039.webp",
+      "dependencies": []
+    },
+    "images/FTP Server-20250820200951587.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 9420,
+      "exportedPath": "images/FTP Server-20250820200951587.webp",
+      "dependencies": []
+    },
+    "images/FTP Server-20250820201413335.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 15492,
+      "exportedPath": "images/FTP Server-20250820201413335.webp",
+      "dependencies": []
+    },
+    "images/FTP Server-20250820201621364.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 9974,
+      "exportedPath": "images/FTP Server-20250820201621364.webp",
+      "dependencies": []
+    },
+    "images/index-20250820114402447.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 13892,
+      "exportedPath": "images/index-20250820114402447.webp",
+      "dependencies": []
+    },
+    "images/Ports under 1024-20250820120028421.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 10054,
+      "exportedPath": "images/Ports under 1024-20250820120028421.webp",
+      "dependencies": []
+    },
+    "images/Reverse Shell-20250821194641570.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 16884,
+      "exportedPath": "images/Reverse Shell-20250821194641570.webp",
+      "dependencies": []
+    },
+    "images/Sing user privileges-20250822112058299.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 29338,
+      "exportedPath": "images/Sing user privileges-20250822112058299.webp",
+      "dependencies": []
+    },
+    "images/Sing user privileges-20250822122401911.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 13868,
+      "exportedPath": "images/Sing user privileges-20250822122401911.webp",
+      "dependencies": []
+    },
+    "images/Sing user privileges-20250822122551826.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 3560,
+      "exportedPath": "images/Sing user privileges-20250822122551826.webp",
+      "dependencies": []
+    },
+    "images/SMB testing-20250820203936709.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 4654,
+      "exportedPath": "images/SMB testing-20250820203936709.webp",
+      "dependencies": []
+    },
+    "images/Smb-20250820194949161.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 7860,
+      "exportedPath": "images/Smb-20250820194949161.webp",
+      "dependencies": []
+    },
+    "images/Untitled.base": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 39,
+      "exportedPath": "images/Untitled.base",
+      "dependencies": []
+    },
+    "images/Untitled 1.base": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 39,
+      "exportedPath": "images/Untitled 1.base",
+      "dependencies": []
+    },
+    "images/Users password-20250821200806508.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 70642,
+      "exportedPath": "images/Users password-20250821200806508.webp",
+      "dependencies": []
+    },
+    "images/Web server-20250820205428329.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 39334,
+      "exportedPath": "images/Web server-20250820205428329.webp",
+      "dependencies": []
+    },
+    "images/Web server-20250821192430750.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 69042,
+      "exportedPath": "images/Web server-20250821192430750.webp",
+      "dependencies": []
+    },
+    "images/Web server-20250821192721494.webp": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 13800,
+      "exportedPath": "images/Web server-20250821192721494.webp",
+      "dependencies": []
+    },
+    "PRIVILEGE ESCALATION/Getting root.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 490,
+      "exportedPath": "PRIVILEGE ESCALATION/Getting root.html",
+      "dependencies": []
+    },
+    "PRIVILEGE ESCALATION/Sing user privileges.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 966,
+      "exportedPath": "PRIVILEGE ESCALATION/Sing user privileges.html",
+      "dependencies": []
+    },
+    "PWND/Find the passwords.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 2445,
+      "exportedPath": "PWND/Find the passwords.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 349,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/293fd13dbca5a3e450ef.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 105924,
+      "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/085cb93e613ba3d40d2b.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 112184,
+      "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1755859213704,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}

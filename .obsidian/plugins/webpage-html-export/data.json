@@ -43,13 +43,15 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/emi/Documents/obsidian/Ra/docs",
+  "exportPath": "/home/emi/Documents/obsidian/AllSignsPoint2Pwnage/docs",
   "filesToExport": [
     [
       "ENUMERATION",
       "EXPLOITATION",
+      "images",
+      "PRIVILEGE ESCALATION",
       "PWND",
-      "Index.md"
+      "index.md"
     ]
   ]
 }

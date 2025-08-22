@@ -260,37 +260,81 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "3f03c7ee3b1ae88a",
+  "floating": {
+    "id": "f2b37a8c873fd8cf",
+    "type": "floating",
+    "children": [
+      {
+        "id": "89156941546c541d",
+        "type": "window",
+        "children": [
+          {
+            "id": "14a1364b089645bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5db1f1670745796",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "index"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 540,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c5db1f1670745796",
   "lastOpenFiles": [
-    "PRIVILEGE ESCALATION/Sing user privileges.md",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "docs/lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/lib/fonts/2d5198822ab091ce4305.woff2",
+    "docs/images/Web server-20250821192721494.webp",
+    "docs/images/Web server-20250821192430750.webp",
+    "docs/images/Web server-20250820205428329.webp",
+    "docs/images/Users password-20250821200806508.webp",
+    "docs/images/Smb-20250820194949161.webp",
+    "docs/images/SMB testing-20250820203936709.webp",
+    "docs/images/Sing user privileges-20250822122551826.webp",
+    "docs/images/Sing user privileges-20250822122401911.webp",
+    "docs/images/Sing user privileges-20250822112058299.webp",
+    "docs/images/Reverse Shell-20250821194641570.webp",
     "PWND/Find the passwords.md",
-    "index.md",
-    "images/Find the passwords and Admin Flag-20250821201554241.webp",
+    "PRIVILEGE ESCALATION/Sing user privileges.md",
+    "PRIVILEGE ESCALATION/Getting root.md",
+    "EXPLOITATION/SMB testing.md",
     "EXPLOITATION/Reverse Shell.md",
     "ENUMERATION/Web server.md",
     "ENUMERATION/Smb.md",
     "ENUMERATION/Ports under 1024.md",
     "ENUMERATION/FTP Server.md",
-    "EXPLOITATION/SMB testing.md",
-    "PRIVILEGE ESCALATION/Getting root.md",
-    "images/Sing user privileges-20250822122551826.webp",
-    "images/Untitled.base",
-    "images/Untitled 1.base",
-    "images/Sing user privileges-20250822122401911.webp",
-    "images/Sing user privileges-20250822112058299.webp",
-    "PRIVILEGE ESCALATION",
-    "images/Find the passwords and Admin Flag-20250822111217809.webp",
-    "images/Find the passwords and Admin Flag-20250821201845472.webp",
-    "images/Users password-20250821200806508.webp",
-    "PWND",
-    "images/Reverse Shell-20250821194641570.webp",
-    "images/Web server-20250821192721494.webp",
-    "images/Web server-20250820205428329.webp",
+    "index.md",
     "README.md",
     "ENUMERATION/Web Server.md",
-    "EXPLOITATION",
-    "ENUMERATION",
-    "images",
     "EXPLOITATION/Enumeration.md",
     "EXPLOITATION/Getting a shell and flag 2.md",
     "PRIVILEGE ESCALATION/Admin shell and Third Flag.md",
@@ -300,9 +344,6 @@
     "ENUMERATION/SMB enumeration and Flag 1.md",
     "ENUMERATION/Install OpenJDK 8 on Kali Linux.md",
     "EXPLOITATION/Cracking the hash.md",
-    "docs",
-    "PWND",
-    "ENUMERATION",
     "EXPLOITATION/Exploitation.md",
     "Ra/README.md"
   ]
